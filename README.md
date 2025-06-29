@@ -1,2 +1,2 @@
-# IA
-Trabalho 02 da disciplina de IA
+# Machine Learning 
+This project involves data analysis and machine learning over a dataset about housing , in Melbourne . 
